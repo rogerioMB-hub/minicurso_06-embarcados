@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: "Minicurso 06 — ESP-NOW com MicroPython"
+description: "Comunicação sem fio entre ESP32 — Técnico em Automação Industrial, IFRS Campus Rio Grande"
+baseurl: "/minicurso_06-embarcados"
+lang: pt-BR
