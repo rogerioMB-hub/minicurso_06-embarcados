@@ -157,4 +157,4 @@ Na **primeira** vez que você roda (logo depois de ligar a placa):
 
 ---
 
-[← Aula 03 — O endereço MAC](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula03-endereco-mac) | [Início →](https://rogeriomb-hub.github.io/minicurso_06-embarcados/)
+[← Aula 03 — O endereço MAC](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula03-endereco-mac) | [Aula 05 — add_peer: a agenda →](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula05-add-peer-agenda)
