@@ -160,4 +160,4 @@ Jeito bonito: 1c:db:d4:3d:80:e8
 
 ---
 
-[← Aula 02 — Do fio para o ar](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula02-do-fio-para-o-ar) | [Início →](https://rogeriomb-hub.github.io/minicurso_06-embarcados/)
+[← Aula 02 — Do fio para o ar](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula02-do-fio-para-o-ar) | [Aula 04 — Preparando o rádio →](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula04-preparando-o-radio)
