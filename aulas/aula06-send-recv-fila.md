@@ -187,4 +187,4 @@ Apertando o botão **uma vez** enquanto o target está "ocupado":
 
 ---
 
-[← Aula 05 — add_peer: a agenda](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula05-add-peer-agenda) | [Início →](https://rogeriomb-hub.github.io/minicurso_06-embarcados/)
+[← Aula 05 — add_peer: a agenda](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula05-add-peer-agenda) | [Aula 07 — O ACK →](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula07-ack)
