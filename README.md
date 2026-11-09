@@ -36,7 +36,7 @@ Neste minicurso você vai fazer uma placa conversar com outra pelo ar. Começamo
 
 | Aula | Tema | Status |
 |---|---|---|
-| Aula 04 | Preparando o rádio (`sta.active`) | 📝 planejada |
+| [Aula 04](aulas/aula04-preparando-o-radio.md) | Preparando o rádio (`sta.active`) | ✅ pronta |
 | Aula 05 | `add_peer`: a agenda de contatos | 📝 planejada |
 | Aula 06 | `send` e `recv`: a fila de mensagens | 📝 planejada |
 | Aula 07 | O ACK: o "recebido" do rádio | 📝 planejada |
