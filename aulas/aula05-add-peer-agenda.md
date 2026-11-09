@@ -172,4 +172,4 @@ Fim!
 
 ---
 
-[← Aula 04 — Preparando o rádio](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula04-preparando-o-radio) | [Início →](https://rogeriomb-hub.github.io/minicurso_06-embarcados/)
+[← Aula 04 — Preparando o rádio](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula04-preparando-o-radio) | [Aula 06 — send e recv: a fila →](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula06-send-recv-fila)
