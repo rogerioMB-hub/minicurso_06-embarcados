@@ -38,7 +38,7 @@ Neste minicurso você vai fazer uma placa conversar com outra pelo ar. Começamo
 |---|---|---|
 | [Aula 04](aulas/aula04-preparando-o-radio.md) | Preparando o rádio (`sta.active`) | ✅ pronta |
 | [Aula 05](aulas/aula05-add-peer-agenda.md) | `add_peer`: a agenda de contatos | ✅ pronta |
-| Aula 06 | `send` e `recv`: a fila de mensagens | 📝 planejada |
+| [Aula 06](aulas/aula06-send-recv-fila.md) | `send` e `recv`: a fila de mensagens | ✅ pronta |
 | Aula 07 | O ACK: o "recebido" do rádio | 📝 planejada |
 
 ### Seção 3 — Projeto: controller e target

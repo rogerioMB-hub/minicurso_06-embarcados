@@ -27,7 +27,7 @@ Começamos pelo clássico — **aperta o botão numa placa, acende o LED na outr
 |---|---|
 | [Aula 04](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula04-preparando-o-radio) | Preparando o rádio |
 | [Aula 05](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula05-add-peer-agenda) | `add_peer`: a agenda de contatos |
-| Aula 06 | `send` e `recv`: a fila de mensagens *(em breve)* |
+| [Aula 06](https://rogeriomb-hub.github.io/minicurso_06-embarcados/aulas/aula06-send-recv-fila) | `send` e `recv`: a fila de mensagens |
 | Aula 07 | O ACK: o "recebido" do rádio *(em breve)* |
 
 ## Seção 3 — Projeto: controller e target
