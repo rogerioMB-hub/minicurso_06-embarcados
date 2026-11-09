@@ -28,7 +28,7 @@ Neste minicurso você vai fazer uma placa conversar com outra pelo ar. Começamo
 
 | Aula | Tema | Status |
 |---|---|---|
-| [Aula 01](aulas/aula01-botao-led-sem-fio.md) | Botão numa placa, LED na outra | 🚧 em construção |
+| [Aula 01](aulas/aula01-botao-led-sem-fio.md) | Botão numa placa, LED na outra | ⚠️ aguardando teste na bancada |
 | [Aula 02](aulas/aula02-do-fio-para-o-ar.md) | O que aconteceu? Do fio para o ar | ✅ pronta |
 | [Aula 03](aulas/aula03-endereco-mac.md) | O endereço MAC de cada placa | ✅ pronta |
 
